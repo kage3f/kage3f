@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o **Tiago!**
 
-[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-usuario/)](https://www.linkedin.com/in/seu-usuario/) [![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail@gmail.com)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/tiago-rodrigues-dev/))]([https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/tiago-rodrigues-dev/)) [![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kage3f@gmail.com)](mailto:kage3f@gmail.com)
 
 🎯 **Full Stack Developer** apaixonado por resolver problemas com tecnologia e construir soluções escaláveis. Trabalho principalmente com **PHP (Laravel)** e **JavaScript (Vue.js)**, criando desde APIs robustas até interfaces de usuário dinâmicas e interativas!
 
@@ -21,8 +21,6 @@
 ---
 
 ## 🚀 **Sobre Mim:**
-
-<img align="right" width="300" src="https://i.imgur.com/p9XcOgu.png" alt="Programador desenvolvendo">
 
 Desenvolvedor **Full Stack** com experiência em criar soluções desde o backend até o frontend.  
 Sou especializado em:
