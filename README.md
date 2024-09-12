@@ -33,21 +33,6 @@ Sou especializado em:
   
 Sempre buscando aprender novas ferramentas e melhorar minhas habilidades. No momento, estou focando em aprimorar minhas práticas de **DevOps** e escalabilidade.
 
----
-
-## 💻 **Meus Projetos:**
-
-📂 **[Brasileirao API](https://github.com/seu-usuario/brasileirao-api)**  
-_API para acessar dados do Campeonato Brasileiro, usando Node.js e MongoDB._
-
-📂 **[Sistema de Campanhas](https://github.com/seu-usuario/sistema-campanhas)**  
-_Plataforma para criação e gestão de campanhas publicitárias com integração a APIs e uploads._
-
-📂 **[WebCrawler Público](https://github.com/seu-usuario/webcrawler-publico)**  
-_Sistema de raspagem de dados de sites públicos para uso em APIs, usando PHP e Node.js._
-
----
-
 ## 📊 **Estatísticas GitHub:**
 
 <p align="center">
@@ -55,19 +40,9 @@ _Sistema de raspagem de dados de sites públicos para uso em APIs, usando PHP e 
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kage3f&langs_count=8&theme=radical&layout=compact" alt="Linguagens mais usadas por Tiago no GitHub" />
 </p>
 
----
-
-## 🎯 **O Que Estou Aprendendo:**
-
-- **DevOps:** Melhorando práticas de CI/CD com Docker e GitLab.
-- **Node.js:** Criando APIs escaláveis e integrando com MongoDB e Redis.
-- **Vue.js 3:** Explorando Composition API e novas funcionalidades.
-
----
-
 ## 🌐 **Vamos Conectar?**
 
-[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-usuario/)](https://www.linkedin.com/in/tiago-rodrigues-dev/)  
+[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/tiago-rodrigues-dev/))](https://www.linkedin.com/in/tiago-rodrigues-dev/)  
 [![Gmail](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kage3f@gmail.com)](mailto:kage3f@gmail.com)
 
 ---
